@@ -24,3 +24,5 @@ Delivered consistent, data-driven pass/fail decisions based on reference-value c
 
 **Notes on This Repository**
 This repository showcases the design and outcome of the test system, described independently in my own words. The original internal Work used at the company is a controlled/proprietary document and is not included here.
+**linkedin url**
+www.linkedin.com/in/sarita-bhat-b2a85b14Van
